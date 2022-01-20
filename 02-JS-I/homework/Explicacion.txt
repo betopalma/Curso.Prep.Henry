@@ -1,0 +1,33 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+
+    *Variables: Son contenedores que se definen con la palabra var o let donde se pueden almacenar valores,
+     y que pueden cambiar durante la ejecucion del algoritmo
+    
+    *String: Es una cadena de caracteres que se define entre '' y que se interpreta como si fuese texto
+    (Ej '11' no es el nro 11, sino una cadena de caracteres)
+    (El resultado '1' + '1' no es 2 sino '11')
+    
+    Funciones: Son un conjunto de sentencias y/o expresiones que se definen para no reescribir el mismo
+     codigo varias veces en el programa. 
+    Se las define una vez, se les asigna un mobre y luego se las invoca. Las mismas pueden tener argumentos,
+    que son expresiones que se pasan a la funcion al momento de invocarla. 
+    Las funciones pueden hacer algo y no retorna nada, o pueden retornar una expresion a traves del comnado
+    return que se escribe dentro de la misma funcion.
+    
+    Declaraciones if: if es una sentencia del tipo condicional, que nos permite realizar acciones dependiendo
+    de la evaluacion de ciertas condiciones.
+    if (edad < 6) {
+            console.log ('vas al preescolar)
+        else {
+            console.log ('ya terminaste el prescolar')
+        }
+    }
+    
+    Valores booleanos: Es un tipo de datos. Son 2 valores posibles true y false. Pueden crearse variables
+     del tipo booleano que pueden almacenar dichos valores. Una evaluación de una comparación tambien puede dar como resultadotru o false
