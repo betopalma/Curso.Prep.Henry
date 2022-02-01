@@ -1,0 +1,10 @@
+# Homework: Javascript VI
+
+## Instrucciones
+---
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* Funciones Callback
+
+CallBack son funciones que se pasan como argumento o parametro en llamadas a otras funciones
+Se las puede definir al momento de llamar a la fucnion, o definirla de antemano
